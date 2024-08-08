@@ -1,0 +1,3 @@
+notes.txt is the only file in linux_practice.
+Hello, Linux!
+This is a practical exam.
