@@ -1,0 +1,63 @@
+    1  ls
+    2  cd 230320618-MARQUEZ/
+    3  ls
+    4  cd linux_practice/
+    5  ls
+    6  cd practice_subdir/
+    7  ls
+    8  cd ..
+    9  date
+   10* uptim
+   11* 
+   12  du -sh $HOME
+   13  ssh -V
+   14  php -V
+   15  cd
+   16  php -v
+   17  mysql --version
+   18  apachectl -v
+   19  python --version
+   20  java --version
+   21  git branch finalexam
+   22  ls
+   23  cd 230320618-MARQUEZ/
+   24  git branch finalexam
+   25  ls
+   26  git add notes.txt
+   27  cd linux_practice/
+   28  cd 
+   29  ls
+   30  cd 230320618-MARQUEZ/
+   31  git branh
+   32  git branch
+   33  cd
+   34  git add notes.txt
+   35  cd 230320618-MARQUEZ/
+   36  ls
+   37  cd linux_practice/
+   38  git add notes.txt 
+   39  git commit -m "Added notes.txt with Linux command practices."
+   40  git config --global user.name CFM24
+   41  git commit -m "Added notes.txt with Linux command practices."
+   42  git config --global user.email cfm0618@students.uc-bcf.edu.ph
+   43  git commit -m "Added notes.txt with Linux command practices."
+   44  git push origin finalexam
+   45  git status
+   46  git push origin main
+   47  git push origin finalexam
+   48  cd 
+   49  ls
+   50  rm -rf ~/230320618-MARQUEZ/linux_practice/
+   51  ls
+   52  history > exam_log.txt
+   53  cat exam_log.txt 
+   54  git pull origin finalexam
+   55  git pull origin main
+   56  cd 230320618-MARQUEZ/
+   57  git pull origin main
+   58  ls
+   59  git branch
+   60  git switch finalexam
+   61  ls
+   62  git push origin finalexam
+   63  history > exam_log.txt
